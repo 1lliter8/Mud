@@ -914,6 +914,7 @@ def mud(pyg_event, pyg_out, pyg_in, pyg_queue):
 		reload(mud2)
 
 if __name__ == '__main__':
+	multiprocessing.freeze_support()
 	pyg_event = multiprocessing.Event()
 	pyg_in, pyg_out = multiprocessing.Pipe()
 	pyg_queue = multiprocessing.Queue()

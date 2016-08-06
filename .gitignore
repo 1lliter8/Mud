@@ -1,3 +1,9 @@
+# My additions
+
+.build
+mud2.pyc
+mudpygame.pyc
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
