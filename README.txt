@@ -36,25 +36,19 @@ Pixel "art" is all me.
 ------RUNNING------
 ===================
 
-NON COMPUTER LITERATES: If you're on Windows double-click the MUD shortcut 
-and it (should) run. If it doesn't, email me.
+NON COMPUTER LITERATES: Install the MSI in the "WindowsInstaller" folder. 
+Double click the shortcut on the Desktop.
 
-If you're not on Windows, you're on a Mac, and I'm not sure how to help. 
-Either try and emulate Windows, or see how you feel about following the 
-computer literate instructions.
+COMPUTER LITERATES: If you don't want to or can't install an MSI then you 
+need to run it in Python. Python 2.7 comes with Macs, I believe, and should 
+be pretty easy to install on Linux.
 
-This runs the "dist" folder version of the game.
+You'll need Python 2.7 and Pygame 1.9.1 for Python 2.7.
 
-COMPUTER LITERATES: If you don't want to run an exe then everything you 
-need to run it in Python is in the "python" directory. Python comes with
-Macs, I believe, and should be pretty easy to install on Linux.
+Download the repository and all the associated files, obviously.
 
-If you're on Windows you want to install Python 2.7 and Pygame.
-
-Regardless of OS open the console window, navigate to the "python" dir and 
+Regardless of OS open the console window, navigate to the main dir and 
 type "python mudpygame.py" to run the game.
-
-This runs the "python" folder version of the game.
 
 ===================
 -----CONTROLS------
